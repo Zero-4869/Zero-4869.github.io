@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Hongyu Zhou",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zhouhy4869@gmail.com",
+    "phone": "",
+    "url": "https://Zero-4869.github.io/",
+    "summary": "PhD Candidate in University of Bonn",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Friedrich-Hirzebruch-Allee 8",
+      "postalCode": "53115",
+      "city": "Bonn",
+      "countryCode": "DE",
+      "region": "Bonn"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
