@@ -6,7 +6,7 @@ subtitle: <a href='#'>Carpe Diem.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: selfie.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3.114</p>
