@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a PhD Candidate in University of Bonn, under the supervision of Zorah Laehner. I am currently in my second year with an interest in 3D reconstruction of Gaussian Splatting. Prior to that, I graduated from IP-Paris(X + MVA) with highest honor.
+Hi there! I am a PhD Candidate in [Geometry in Machine Learning](https://geometryinml.cs.uni-bonn.de/) in University of Bonn and [Lamarr Institut](https://lamarr-institute.org/de/), under the supervision of [Zorah Lähner](https://lamarr-institute.org/person/lahner-zorah/). I am currently in my second year with an interest in bridging 3D computer vision and computer graphics. Prior to that, I graduated from IP-Paris(X + MVA) with highest honor, under the supervision of [Mathieu Aubry](https://mathieuaubry.github.io/) and [Loic Landrieu](https://loiclandrieu.com/).
