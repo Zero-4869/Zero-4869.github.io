@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-my-phd-with-prof-dr-zorah-l-quot-a-hner",
+          title: 'I started my PhD with Prof.Dr.Zorah L{&amp;quot;a}hner',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-got-accepted-as-oral-at-icdar-2025",
+          title: 'One paper got accepted as oral at ICDAR 2025',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-got-accepted-at-3dv-2026",
+          title: 'One paper got accepted at 3DV 2026',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
