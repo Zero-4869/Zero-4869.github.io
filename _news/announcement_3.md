@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD with Prof.Dr.Zorah L{\"a}hner
+I started my PhD with Prof.Dr.Zorah Lähner
