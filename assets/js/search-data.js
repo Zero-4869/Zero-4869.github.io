@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-phd-with-prof-dr-zorah-l-quot-a-hner",
-          title: 'I started my PhD with Prof.Dr.Zorah L{&amp;quot;a}hner',
+            },},{id: "news-i-started-my-phd-with-prof-dr-zorah-lähner",
+          title: 'I started my PhD with Prof.Dr.Zorah Lähner',
           description: "",
           section: "News",},{id: "news-one-paper-got-accepted-as-oral-at-icdar-2025",
           title: 'One paper got accepted as oral at ICDAR 2025',
