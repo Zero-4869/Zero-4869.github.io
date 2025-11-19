@@ -452,22 +452,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-teaching-3",
-          title: 'Teaching_3',
+            },},{id: "teaching-teaching-assistant-in-geometric-deep-learning-advisor-in-master-seminar",
+          title: 'Teaching assistant in Geometric Deep Learning           Advisor in Master Seminar',
           description: "",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/teaching_3/";
-            },},{id: "teaching-teaching-2",
-          title: 'Teaching_2',
+          section: "Teaching",},{id: "teaching-advisor-in-bachelor-group-project",
+          title: 'Advisor in Bachelor Group Project',
           description: "",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/teaching_2/";
-            },},{id: "teaching-teaching-1",
-          title: 'Teaching_1',
+          section: "Teaching",},{id: "teaching-teaching-assistant-in-geometric-deep-learning-advisor-in-master-lab-course",
+          title: 'Teaching assistant in Geometric Deep Learning           Advisor in Master Lab Course',
           description: "",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/teaching_1/";
-            },},{
+          section: "Teaching",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
