@@ -452,7 +452,13 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-teaching-assistant-in-geometric-deep-learning-advisor-in-master-lab-course",
+            },},{id: "teaching-teaching-assistant-in-geometric-deep-learning-advisor-in-master-seminar",
+          title: 'Teaching assistant in Geometric Deep Learning  Advisor in Master Seminar',
+          description: "",
+          section: "Teaching",},{id: "teaching-advisor-in-bachelor-group-project",
+          title: 'Advisor in Bachelor Group Project',
+          description: "",
+          section: "Teaching",},{id: "teaching-teaching-assistant-in-geometric-deep-learning-advisor-in-master-lab-course",
           title: 'Teaching assistant in Geometric Deep Learning  Advisor in Master Lab Course',
           description: "",
           section: "Teaching",},{
