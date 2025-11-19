@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Teaching assistant in Geometric Deep Learning
+Teaching assistant in Geometric Deep Learning 
+
+Advisor in Master Lab Course
