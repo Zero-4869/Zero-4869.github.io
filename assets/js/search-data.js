@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -452,7 +452,10 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{
+            },},{id: "teaching-teaching-assistant-in-geometric-deep-learning",
+          title: 'Teaching assistant in Geometric Deep Learning',
+          description: "",
+          section: "Teaching",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
