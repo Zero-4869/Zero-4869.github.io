@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2025-04-09 15:59:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
-Advisor in Bachelor Group Project
+1. Advisor in Bachelor Group Project
