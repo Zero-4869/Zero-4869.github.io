@@ -1,0 +1,1 @@
+const allSlider=document.querySelectorAll(".myslider");allSlider.forEach((e=>{e.addEventListener("input",(t=>{e.closest(".image-container").style.setProperty("--position",`${t.target.value}%`)}))}));
