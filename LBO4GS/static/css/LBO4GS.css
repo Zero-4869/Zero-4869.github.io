@@ -44,7 +44,7 @@
     
   }
 
-  .slider-image{
+  .slider-image-width{
     width:100%;
     object-fit: cover;
     object-position: left;
