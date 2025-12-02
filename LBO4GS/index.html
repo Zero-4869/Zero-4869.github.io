@@ -339,9 +339,11 @@
          
         </div>
       </div>
+      <div class="has-text-justified">
       <p>Difference between the Euclidean distance (left) and Mahalanobis distance (right). p and q both have the same distance to distribution Gi. The Euclidean distance is a special case of the Mahalanobis distance if the covariance is equal in all directions while the general Mahalanobis distance weights directions differently based on the directional variance. 
         We take the Gaussian Splattings from PGSR without any further pruning. We visualize the center of the Gaussians and we zoom in to observe close to the surface. The Mahalanobis neighborhood captures the surface structure better than the Euclidean neighborhood.
       </p>
+    </div>
     </div>
   </div>
 </section>
@@ -445,6 +447,10 @@
           </div>
         </div>
       </div>
+      <div class="has-text-justified">
+      <p>Curvature computation using the Laplace-Beltrami operator of the Gaussian center point cloud that uses Euclidean neighborhood, and our proposed method that uses Mahalanobis neighborhood. Purple indicates low curvature and turquoise to yellow higher curvature. Our method does
+        not overestimate curvature in areas with many outliers as the point cloud Laplacian or the pure Euclidean neighborhood does. </p>
+      </div>
     </div>
   </div>
 </section>
@@ -493,6 +499,9 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="has-text-justified">
+        <p>Comparison of our proposed adaptive learning that uses pruning by graph when training, and PGSR. Our method makes the Gaussians more aligned to the surface while PGSR has many Gaussians inside the object, whose center is away from the surface, even though PGSR has already applied some pruning approaches.</p>
       </div>
     </div>
   </div>
