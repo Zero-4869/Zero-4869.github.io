@@ -308,19 +308,19 @@
       <div class="is-centered has-text-centered">
       <h2 class="title is-3">Mahalanobis Neighborhood</h2>
       <div class="gallery">
-        <div class = "image-container-nonsquare">
+        <div class = "image-container-fix">
           <img src="static/images/neighborhood/euclidean_distance.png" class="slider-image-width" alt="euclidean distance"/>
           <p class="caption">Euclidean Distance</p>
         </div>
-          <div class = "image-container-nonsquare">
+          <div class = "image-container-fix">
             <img src="static/images/neighborhood/euclidean.png" class="slider-image-width" alt="neighborhood Euclidean"/>
           </div>
 
-          <div class = "image-container-nonsquare">
+          <div class = "image-container-fix">
             <img src="static/images/neighborhood/mahalanobis_distance.png" class="slider-image-width" alt="mahalanobis distance"/>
             <p class="caption">Mahalanobis Distance</p>
           </div>
-          <div class = "image-container-nonsquare">
+          <div class = "image-container-fix">
             <img src="static/images/neighborhood/mahalanobis.png" class="slider-image-width" alt="neighborhood Mahalanobis "/>
           </div>
          
@@ -489,6 +489,33 @@
       </div>
       <div class="has-text-justified">
         <p>Comparison of our proposed adaptive learning that uses pruning by graph when training, and PGSR. Green and Red points are centers of the Gaussians, visualized together with the ground truth mesh. Our method makes the Gaussians more aligned to the surface while PGSR has many Gaussians inside the object, whose center is away from the surface, even though PGSR has already applied some pruning approaches.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Quantitative results-->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container is-centered has-text-centered">
+      <h2 class="title is-3">More Results</h2>
+      <div class="gallery-overview">
+        <div class = "image-container-nofix">
+          <img src="static/images/eigenvalue.png" class="slider-image-width" alt="eigenvalue"/>
+          <div class="has-text-justified">
+          <p>Statistical analysis over all the objects on the loss of eigenvalues. The index represents the order of the eigenvalue by magnitude.
+            The line represent the average of the loss and one std is used for the confidence interval.</p>
+          </div>
+        </div>
+
+        <div class = "image-container-nofix">
+          <img src="static/images/geodesic.png" class="slider-image-width" alt="geodesic"/>
+          <div class="has-text-justified">
+          <p>Average error in geodesic computation Egeo by Geodesics in Heat in comparison to the exact distance on the ground truth
+            mesh. The bold represents the best score and the gray represents the second best. Note that Mesh (GT) represents the approximation error
+            introduced by Geodesics in Heat on the ground-truth mesh as a reference and is not a competitor as the ground truth is not known in general.</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
