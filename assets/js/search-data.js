@@ -398,14 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-phd-with-prof-dr-zorah-lähner",
-          title: 'I started my PhD with Prof.Dr.Zorah Lähner',
-          description: "",
-          section: "News",},{id: "news-one-paper-got-accepted-as-oral-at-icdar-2025",
+            },},{id: "news-one-paper-got-accepted-as-oral-at-icdar-2025",
           title: 'One paper got accepted as oral at ICDAR 2025',
           description: "",
           section: "News",},{id: "news-one-paper-got-accepted-at-3dv-2026",
           title: 'One paper got accepted at 3DV 2026',
+          description: "",
+          section: "News",},{id: "news-one-paper-got-accepted-at-gcpr",
+          title: 'One paper got accepted at GCPR',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
