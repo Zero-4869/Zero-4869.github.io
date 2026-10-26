@@ -9,9 +9,9 @@ profile:
   image: selfie.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3.114</p>
-    <p>Friedrich-Hirzebruch-Allee 8</p>
-    <p>Bonn 53115</p>
+    <p>3.064</p>
+    <p>Am Propsthof 49</p>
+    <p>Bonn 53121</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
